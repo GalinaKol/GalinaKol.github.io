@@ -7,7 +7,7 @@
 
 
 
-(Урок13)() создание сайта с помощью bootstrap
+(Урок13)(https://galinakol.github.io/verstka/lessons13/index.html) создание сайта с помощью bootstrap
 
 
 
